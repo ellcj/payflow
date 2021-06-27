@@ -4,7 +4,7 @@
 
 <h1>About</h1> 📖
 
-O projeto PayFlow foi desenvolvido durante a  Next Level Week Together uma iniciativa da rocketseat, com aulas do professor GabuDev, sendo um projeto executado em flutter! 
+O projeto PayFlow foi desenvolvido durante a  Next Level Week Together uma iniciativa da [rocketseat](https://github.com/rocketseat-education), com aulas do professor [GabuDEV](https://github.com/gabuldev), sendo um projeto executado em flutter! 
 
 ![image](https://user-images.githubusercontent.com/56460292/123560129-e3a0a180-d776-11eb-8f48-a99e03772940.png)
 
